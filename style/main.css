@@ -254,7 +254,7 @@ header .slider h2 span
     flex-wrap: wrap;
     width: 200px;
     height: 230px;
-    background-color: #458597;
+    background-color: transparent;
     color: aliceblue;
     display: flex;
     justify-content: center;
