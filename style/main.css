@@ -96,7 +96,7 @@ header .slider
 {
     align-items: center;
     justify-content: center;
-    background: linear-gradient( rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25) ), url(https://i.imgur.com/olfdqQ6.png);
+    background: linear-gradient( rgba(0, 0, 0, .50), rgba(0, 0, 0, 0.50) ), url(https://i.imgur.com/olfdqQ6.png);
     background-size: cover;
     background-position: center;
     height: 460px;
