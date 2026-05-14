@@ -1,5 +1,4 @@
 <!-- Profile README for Mtechsin -->
-
 <h1 align="center" style="color:#223A5E;">Ahmed (Mtechsin)</h1>
 <p align="center">
   <em>An engineer with one guiding principle:<br>
@@ -10,13 +9,11 @@
 ---
 
 ## About
-
 I am a freelancer and code lecturer with a strong interest in AI research. My expertise lies in reverse engineering, front-end design, and artificial intelligence. I am committed to continuous improvement, both in my own work and in the projects I contribute to. My approach combines technical rigor with a passion for sharing knowledge and exploring new challenges.
 
 ---
 
 ## Core Competencies
-
 - Reverse Engineering
 - Front-End Design (modern, minimalist, and unique approaches)
 - Artificial Intelligence (research and application)
@@ -26,13 +23,13 @@ I am a freelancer and code lecturer with a strong interest in AI research. My ex
 
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-son-120a1b204)
-[![GitHub Pages](https://img.shields.io/badge/Personal%20Website-Coming%20Soon-blue?logo=github)](https://github.com/Mtechsin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-son-120a1b204)
+[![GitHub](https://img.shields.io/badge/GitHub-Mtechsin-181717?logo=github&logoColor=white)](https://github.com/Mtechsin)
+[![GitHub](https://img.shields.io/badge/Other%20GitHub-amadoson3001-181717?logo=github&logoColor=white)](https://github.com/amadoson3001)
 
 ---
 
 ## Interests
-
 - Video game development and analysis
 - Exploring advanced concepts in physics
 - Global travel and cultural exploration
