@@ -13,15 +13,32 @@ I am a freelancer and code lecturer with a strong interest in AI research. My ex
 
 ---
 
+## Featured Project
+
+### [AeroTube Downloader](https://github.com/Mtechsin/aerotube-downloader)
+
+A clean, modern YouTube downloader for Windows & Mobile built with Flutter. No ads, no clutter — just a beautiful UI that works.
+
+**Why AeroTube?** Because I was tired of clunky, ad-filled downloaders. This is what a downloader should feel like:
+
+| | |
+|---|---|
+| 🎨 **Clean UI** | Modern Material Design that doesn't look like 2005 |
+| 📱 **Cross-Platform** | Windows desktop + Android mobile support |
+| ⚡ **Fast & Reliable** | Built with Flutter for native performance |
+| 🎯 **User-First** | Thoughtful UX without sacrificing power |
+
+---
+
 ## Core Competencies
 - Reverse Engineering
-- Front-End Design (modern, minimalist, and unique approaches)
+- Front-End Design (modern, minimalistic, and unique approaches)
 - Artificial Intelligence (research and application)
 - Teaching and Mentorship
 
 ---
 
-### 🌐 Connect with Me
+### Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-son-120a1b204)
 [![GitHub](https://img.shields.io/badge/GitHub-Mtechsin-181717?logo=github&logoColor=white)](https://github.com/Mtechsin)
@@ -41,7 +58,3 @@ I am a freelancer and code lecturer with a strong interest in AI research. My ex
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=223A5E&height=140&section=footer"/>
 </p>
-
-<!--
-This README reflects my professional journey and interests. Updates will follow as my work evolves.
--->
